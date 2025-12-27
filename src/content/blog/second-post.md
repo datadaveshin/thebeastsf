@@ -12,6 +12,8 @@ The main street here is Market Street. The Bart runs underneath it two levels un
 
 ### Bars and Food
 
-The <a href="https://tadichgrillsf.com/" target="_blank">Tadich Grill</a> is supposedly real good, for seafood haven't been there yet, runs $50-100. Probably need reservations. You can walk here from the Omni.
+Food - Seafood - The <a href="https://tadichgrillsf.com/" target="_blank">Tadich Grill</a> is supposedly real good, for seafood haven't been there yet, runs $50-100. Probably need reservations. You can walk here from the Omni.
 
-For beef, try out <a href="https://www.johnsgrill.com/" target="_blank">John's Grill</a>, a historic steak house, again runs $50-100, there's actually a cheap steak place across the street (not very good). Need a reservation. Say you were at he Omni, you'd walk to Montgomery street station, and take either the SF Muni or Bart (One stop) to Powell street station - trains will be heading to Daly City, SFO, or Millbrae for Bart. When you get out you'll see where the Rice-a-Roni is.
+Food - Beef - try out <a href="https://www.johnsgrill.com/" target="_blank">John's Grill</a>, a historic steak house, again runs $50-100, there's actually a cheap steak place across the street (not very good). Need a reservation. Say you were at he Omni, you'd walk to Montgomery street station, and take either the SF Muni or Bart (One stop) to Powell street station - trains will be heading to Daly City, SFO, or Millbrae for Bart. When you get out you'll see where the Rice-a-Roni is.
+
+Bars - For an interesting bar, check ot the <a href="https://www.paganidol.com/" target="_blank">Pagan Idol</a> - Walk into a the bowels of a ship, then continue to Tiki Area. Opens later, on Sat it looks like it opens at 4:30pm. If one were staying at the Omni, this is a short walk down the hill. Further away, is the Tonga Room - the site doesn't support HTTPS at the moment, just use your maps.
