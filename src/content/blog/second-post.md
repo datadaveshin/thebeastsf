@@ -16,4 +16,8 @@ Food - Seafood - The <a href="https://tadichgrillsf.com/" target="_blank">Tadich
 
 Food - Beef - try out <a href="https://www.johnsgrill.com/" target="_blank">John's Grill</a>, a historic steak house, again runs $50-100, there's actually a cheap steak place across the street (not very good). Need a reservation. Say you were at he Omni, you'd walk to Montgomery street station, and take either the SF Muni or Bart (One stop) to Powell street station - trains will be heading to Daly City, SFO, or Millbrae for Bart. When you get out you'll see where the Rice-a-Roni is.
 
+Food - Fried Chicken - Another famous place is the <a href="https://www.wayfaretavern.com/" target="_blank">The Wayfare Tavern</a>, owned by the Chef and host of "The Great Food Truck Race" Tyler Florence. Supposedly the best, again in the $50-100 range and likely need a reservation, I mean to check it out. There's a lot of other Fried Chicken places in town though that I bet are good.
+
 Bars - For an interesting bar, check ot the <a href="https://www.paganidol.com/" target="_blank">Pagan Idol</a> - Walk into a the bowels of a ship, then continue to Tiki Area. Opens later, on Sat it looks like it opens at 4:30pm. If one were staying at the Omni, this is a short walk down the hill. Further away, is the Tonga Room - the site doesn't support HTTPS at the moment, just use your maps.
+
+Bars - Another two blocks over is <a href="https://tunneltop.bar/" target="_blank">Tunnel Top</a>, old school sign, cool inside.
