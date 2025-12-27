@@ -12,4 +12,6 @@ The main street here is Market Street. The Bart runs underneath it two levels un
 
 ### Bars and Food
 
-The <a href="https://tadichgrillsf.com/" target="_blank">Tadich Grill</a> is supposedly real good, haven't been there yet, runs $50-100.
+The <a href="https://tadichgrillsf.com/" target="_blank">Tadich Grill</a> is supposedly real good, for seafood haven't been there yet, runs $50-100. Probably need reservations. You can walk here from the Omni.
+
+For beef, try out <a href="https://www.johnsgrill.com/" target="_blank">John's Grill</a>, a historic steak house, again runs $50-100, there's actually a cheap steak place across the street (not very good). Need a reservation. Say you were at he Omni, you'd walk to Montgomery street station, and take either the SF Muni or Bart (One stop) to Powell street station - trains will be heading to Daly City, SFO, or Millbrae for Bart. When you get out you'll see where the Rice-a-Roni is.
