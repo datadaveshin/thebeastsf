@@ -54,4 +54,6 @@ Boudin - Instead of eating at Applebee's, what you are supposed to do down here 
 
 Scoma's - Seafood - If you want an upscale meal where you need reservations - check out [Scoma's](https://scomas.com/)
 
+Chocolate - Even though I'm not a candy/chocolate kind of fan, you may be, and if you are doing the tourist thing, you are also supposed to stop by [Ghirardelli](https://www.ghirardelli.com/stores/sf-on-the-go)
+
 There's a bunch of others around too, something for everyone.
