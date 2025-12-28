@@ -1,8 +1,8 @@
 ---
 title: "Fisherman's Wharf"
-description: 'Lorem ipsum dolor sit amet'
+description: "Fisherman's wharf information"
 pubDate: 'Dec 28 2025'
-heroImage: '../../assets/seals.jpeg'
+heroImage: '../../assets/sea-lions.JPG'
 ---
 
 ### Getting There
