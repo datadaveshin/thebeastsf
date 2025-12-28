@@ -2,7 +2,7 @@
 title: 'The Financial District'
 description: 'Just some stuff to do in The Financial District'
 pubDate: 'Dec 27 2025'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/financial-district.jpeg'
 ---
 
 ## Background
@@ -11,6 +11,8 @@ So yes, the Financial Disctrict is where prior to Covid, that most of the Tech w
 The main street here is Market Street. The Bart runs underneath it two levels under the ground.
 
 ### Bars and Food
+![Fogo de Chão](../../assets/fogo2.jpeg)
+Food - Brazilian BBQ - South of Market Street is [Fogo de Chão](https://fogodechao.com/location/san-francisco/) - yeah, there's a bunch of them but this one is really nice, and you can get your flex on excellent Brazilian BBQ here. If you go with a vegetarian, the salad bar option is way more than anyone can ask for, as I go with one on a regular basis.
 
 Food - Seafood - The <a href="https://tadichgrillsf.com/" target="_blank">Tadich Grill</a> is supposedly real good, for seafood haven't been there yet, runs $50-100. Probably need reservations. You can walk here from the Omni.
 
